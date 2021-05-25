@@ -53,14 +53,13 @@ public class ViewProfile extends AppCompatActivity {
                     350,
                     99
             );
-            /*
-             android:layout_width="match_parent"
+            /*android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#9C27B0"
             android:text="text1"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
-             */
+*/
             txtView1.setLayoutParams(new LinearLayout.LayoutParams(
                     LinearLayout.LayoutParams.MATCH_PARENT,
                     LinearLayout.LayoutParams.WRAP_CONTENT));
@@ -103,6 +102,7 @@ public class ViewProfile extends AppCompatActivity {
             lLayout.addView(txtView3);
             lLayout.addView(txtView4);
             lLayout.addView(txtView5);
+
             linear_root.addView(lLayout);
         }
 

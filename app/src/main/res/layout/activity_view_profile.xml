@@ -85,7 +85,7 @@
             android:text="text5"
             android:textColor="#FFFFFF"
             android:textStyle="bold" />
-            -->
+-->
 
         </LinearLayout>
     </ScrollView>
