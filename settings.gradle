@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 rootProject.name = "FrmProfile"
 include ':app'
+=======
+rootProject.name = "FrmProfile"
+include ':app'
+>>>>>>> 1577842dedb687dc5029a182ab1c5f943db84993

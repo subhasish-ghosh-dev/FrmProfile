@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 <resources>
     <string name="app_name">Contact Me</string>
+=======
+<resources>
+    <string name="app_name">Contact Me</string>
+>>>>>>> 1577842dedb687dc5029a182ab1c5f943db84993
 </resources>
